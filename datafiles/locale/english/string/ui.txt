@@ -11,7 +11,7 @@
 "ui.save.name.empty"				"EMPTY"
 "ui.save.save"						"Save"
 "ui.save.return"					"Return"
-"ui.save.saved"						"File Saved."
+"ui.save.saved"						"File saved."
 
 "ui.box.inventory"					"INVENTORY"
 "ui.box.box"						"BOX"

@@ -52,5 +52,7 @@ Console_OutputLine("Game Version: "+GAME_VERSION);
 Console_OutputLine("Game GUID: "+GAME_GUID);
 
 //show_debug_overlay(true);
+Border_SetEnabled(true);
+Border_SetSprite(spr_border_simple);
 
 room_goto_next();

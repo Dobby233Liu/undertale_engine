@@ -431,6 +431,14 @@
             }
         },
         {
+            "Key": "10f20c5b-135c-433b-bd8d-d21bd1e83b65",
+            "Value": {
+                "id": "ea1e85cc-f296-4976-9615-3e2500a40b4e",
+                "resourcePath": "objects\\char_sign_area1\\char_sign_area1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1246867e-b038-4877-8b0c-db8c4d95cac0",
             "Value": {
                 "id": "b819e956-6c49-44cf-9388-041aaa241e6e",
@@ -1220,6 +1228,22 @@
                 "id": "37b8d76a-3e69-4ad9-8fab-ab52122acb02",
                 "resourcePath": "scripts\\Battle_RewardExp\\Battle_RewardExp.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "3a5af38c-757d-41ae-98c0-5d4b09e14e6a",
+            "Value": {
+                "id": "2f559d48-2c5c-4756-af2d-5d47093079c7",
+                "resourcePath": "options\\switch\\options_switch.yy",
+                "resourceType": "GMSwitchOptions"
+            }
+        },
+        {
+            "Key": "3a5af38c-757d-44ae-98c0-5d4b09e14e6a",
+            "Value": {
+                "id": "14854a80-440c-4a40-9ca0-707feaaf6b8e",
+                "resourcePath": "options\\ps4\\options_ps4.yy",
+                "resourceType": "GMPS4Options"
             }
         },
         {
@@ -2335,6 +2359,14 @@
             }
         },
         {
+            "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
+            "Value": {
+                "id": "d4152eb7-0749-4952-9f45-132bd65cfb31",
+                "resourcePath": "options\\html5\\options_html5.yy",
+                "resourceType": "GMHtml5Options"
+            }
+        },
+        {
             "Key": "75bd8c63-aec9-44f7-ad5b-ba6cf3db622c",
             "Value": {
                 "id": "cfe1cb39-316c-4acb-9891-383b148c57e5",
@@ -2487,6 +2519,14 @@
             }
         },
         {
+            "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
+            "Value": {
+                "id": "2413cd9d-7416-483c-a677-cbb64f66224e",
+                "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
+                "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
             "Key": "7e635053-7374-4271-bc78-7d8a5ecb01e0",
             "Value": {
                 "id": "61cc1510-09e3-4b3d-a708-8985a2fb99cb",
@@ -2580,6 +2620,14 @@
                 "id": "52eb2fb1-4865-4f3c-a064-e173e6cb2e13",
                 "resourcePath": "objects\\logo\\logo.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
+            "Value": {
+                "id": "fe9f859f-c888-4733-83ab-57073c54aca5",
+                "resourcePath": "options\\ios\\options_ios.yy",
+                "resourceType": "GMiOSOptions"
             }
         },
         {
@@ -2959,6 +3007,14 @@
             }
         },
         {
+            "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
+            "Value": {
+                "id": "5b7d40b1-3942-4a0e-8edc-1ddc925191ab",
+                "resourcePath": "options\\tvos\\options_tvos.yy",
+                "resourceType": "GMtvOSOptions"
+            }
+        },
+        {
             "Key": "93b9c18d-ff1b-465b-a50d-0558fe3353b4",
             "Value": {
                 "id": "813530c9-d487-408b-805c-11677e238d39",
@@ -3236,6 +3292,14 @@
                 "id": "6e312b10-ef71-44df-9df2-2c5d580b5450",
                 "resourcePath": "sprites\\spr_trigger\\spr_trigger.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
+            "Value": {
+                "id": "ae84cde1-9248-403f-99ad-850d1572d9c4",
+                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
+                "resourceType": "GMAmazonFireOptions"
             }
         },
         {
@@ -4463,6 +4527,14 @@
             }
         },
         {
+            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
+            "Value": {
+                "id": "81ee879a-201e-4917-9596-50fbf887694b",
+                "resourcePath": "options\\android\\options_android.yy",
+                "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
             "Key": "e48fa714-3070-4c2c-9a39-4dfd42a40ffe",
             "Value": {
                 "id": "fe231b6b-2773-4235-8a63-b036ed648e72",
@@ -4548,6 +4620,14 @@
                 "id": "17ad22c1-d7f3-450d-9c8c-2b2d5bf54e15",
                 "resourcePath": "sprites\\spr_bg_area_1\\spr_bg_area_1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e84e92a3-5c31-453d-8921-1f1241784361",
+            "Value": {
+                "id": "1beb4ae8-48be-4ce2-963d-9d9b90f0d2f1",
+                "resourcePath": "scripts\\TyperNewLine\\TyperNewLine.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -4943,6 +5023,14 @@
             }
         },
         {
+            "Key": "f85efd3d-bcec-4ec0-8226-da808afda79d",
+            "Value": {
+                "id": "309ab81d-d3b7-4339-9229-9d65240275fc",
+                "resourcePath": "options\\xboxone\\options_xboxone.yy",
+                "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
             "Key": "f8d7e5d9-1ec8-4bee-bad6-858318222255",
             "Value": {
                 "id": "2c964da8-6ecb-4c99-857e-f62b23bd1b0d",
@@ -5170,6 +5258,7 @@
         "e0d122da-d8a2-4f9e-9bbe-64cf1583ccec",
         "6bf08f66-bd83-4c85-bba0-a8a148dc3a5b",
         "64c0baea-994a-4040-a42c-16c8694afbaf",
+        "e84e92a3-5c31-453d-8921-1f1241784361",
         "d9cc366f-91e1-455b-a1f1-e93ee588f329",
         "3f50e639-cf08-4d09-8a83-ccd8237006da",
         "49eaf684-a20d-459a-8eb4-dbc14e134e20",

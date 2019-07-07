@@ -64,6 +64,6 @@ if(_state==1){
 	_inst_room=instance_create_depth(108+6+26,118+6+56,0,text_typer);
 	_inst_room.text=_prefix+"{color `yellow`}"+Player_GetRoomName(Flag_Get(FLAG_TYPE.INFO,FLAG_INFO.ROOM,-1));
 	
-	_inst_save=instance_create_depth(108+6+56,118+6+116,0,text_typer);
+	_inst_save=instance_create_depth(108+6+56,118+6,0,text_typer);
 	_inst_save.text=_prefix+"{color `yellow`}"+Lang_GetString("ui.save.saved");
 }
